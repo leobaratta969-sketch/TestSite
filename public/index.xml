@@ -18,14 +18,14 @@
 				<link>https://example.org/posts/test2/</link>
 				<pubDate>Wed, 24 Jun 2026 09:19:38 +0200</pubDate>
 				<guid>https://example.org/posts/test2/</guid>
-				<description>&lt;h2 id=&#34;test-lol&#34;&gt;Test LOL&lt;/h2&gt;&#xA;&lt;p&gt;Test du site Hugo&lt;/p&gt;</description>
+				<description>&lt;h2 id=&#34;test-lol-fdzqdqz&#34;&gt;Test LOL fdzqdqz&lt;/h2&gt;&#xA;&lt;p&gt;Test du site Hugo&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Test</title>
 				<link>https://example.org/posts/my-first-post/</link>
 				<pubDate>Wed, 24 Jun 2026 09:10:51 +0200</pubDate>
 				<guid>https://example.org/posts/my-first-post/</guid>
-				<description>&lt;h2 id=&#34;test-lol&#34;&gt;Test LOL&lt;/h2&gt;&#xA;&lt;p&gt;Test du site Hugo&lt;/p&gt;</description>
+				<description>&lt;h2 id=&#34;test-123&#34;&gt;Test 123&lt;/h2&gt;&#xA;&lt;p&gt;Test du site Hugo&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
